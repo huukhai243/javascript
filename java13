@@ -1,0 +1,25 @@
+</HEAD>
+
+<BODY>
+<H2 STYLE="color:white; background-color:magenta; width:200px"
+onMouseOver = "document.all.LienKet.style.visibility = 'visible';">
+Các liên kết
+</H2>
+<DIV ID="LienKet" STYLE="position:absolute; font-family:arial; visibility: hidden;
+background-color:yellow; top: 40px; left: 10px; width:200px; ">
+<TABLE BORDER="0">
+<TR>
+<TD onClick = "document.all.LienKet.style.visibility = 'hidden';" >
+<A HREF = "https://download.com.vn/">Website tải phần mềm</A>
+</TD>
+</TR>
+<TR>
+<TD onClick = "document.all.LienKet.style.visibility = 'hidden';">
+<A HREF = "https://meta.vn/">Website TMĐT</A>
+</TD>
+</TR>
+</TABLE>
+</DIV>
+</body>
+
+</HTML>
