@@ -1,0 +1,17 @@
+HTML>
+
+<HEAD>
+<TITLE>Hiệu ứng di chuyển chuột Version 2</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
+</HEAD> 
+
+<BODY>
+<H2 ID="LienKet" STYLE="background-color:blue; color:white; cursor:hand"
+onMouseMove = "document.all.LienKet.style.backgroundColor = 'red';"
+onMouseOut = "document.all.LienKet.style.backgroundColor = 'blue';"
+onclick = "window.open('https://quantrimang.com/');" >
+Website công nghệ https://quantrimang.com/
+</H2>
+</BODY>
+
+</HTML>
