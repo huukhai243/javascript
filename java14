@@ -1,0 +1,9 @@
+<HTML>
+<HEAD> </HEAD>
+<BODY style="background-image:url('anh1.jpg');background-repeat:no-repeat">
+<input style = "background-image:url('anh2.jpg');background-repeat:repeat-x; width:100%">
+<P>
+<textarea style = "background-image:url('anh3.jpg');background-repeat:repeat-y" cols = 80 rows = 25>
+</textarea>
+</BODY>
+</HTML> 
