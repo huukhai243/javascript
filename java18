@@ -1,0 +1,9 @@
+<HTML>
+
+<HEAD> </HEAD>
+<BODY>
+<TITLE>Tạo liên kết và xử lý sự kiện</TITLE>
+<font style ="cursor:hand;color:blue" onclick="window.open('https://quantrimang.com');">Trang chủ </font> QTM
+</BODY>
+
+</HTML>
