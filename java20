@@ -1,0 +1,14 @@
+const arr = [
+	0,
+	false,
+	NaN,
+	undefined,
+	"",
+	null,
+	1,
+	true,
+	"Hello World",
+	{ name: "value" },
+];
+const filteredArr = arr.filter(Boolean);
+console.log(filteredArr); // [ 1, true, 'Hello World', { name: 'value' } ]
