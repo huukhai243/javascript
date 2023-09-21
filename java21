@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<title>In trang hiện tại.</title>
+</head>
+<body>
+<p></p>
+<p>Click nút bấm để in trang hiện tại.</p>
+<button onclick="print_current_page()">In trang này</button>
+</body>
+</html>
